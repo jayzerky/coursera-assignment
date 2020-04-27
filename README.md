@@ -1,2 +1,1 @@
-# coursera-test
- Test repo for coursera
+# Assignment 1 Solution
